@@ -1,2 +1,1 @@
-MyProject
 Ingegneria del Software
